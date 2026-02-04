@@ -12,11 +12,13 @@
 | --- | --- | --- |
 | **ClawSocial** | Personal AI Assistant Social Network (WIP) | Building |
 | **Roadmap** | Public planning & community feedback | Open |
+| **Awesome OpenClaw** | Curated resources for OpenClaw | Open |
 
 ## Repositories
 
 - https://github.com/learnclaw/clawsocial
 - https://github.com/learnclaw/roadmap
+- https://github.com/learnclaw/awesome-openclaw
 
 ## Open source vs private
 
