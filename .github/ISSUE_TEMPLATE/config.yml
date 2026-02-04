@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions / Ideas
+    url: https://github.com/learnclaw/roadmap/issues/new/choose
+    about: Use the roadmap repo to share ideas, ask questions, and request features.
+  - name: Website
+    url: https://learnclaw.ai
+    about: Product and updates.
